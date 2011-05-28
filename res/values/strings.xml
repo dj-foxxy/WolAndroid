@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wake on LAN</string>
+    <string name="start_computer_button">Start computer</string>
+</resources>
